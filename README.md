@@ -67,9 +67,8 @@ The environment contains separate development and production workloads connected
 
 ## Architecture
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/cd2b8bcc-bc0e-4076-aa12-49d0d2af51e9" alt="Azure Infrastructure Architecture" width="100%">
-</p>
+<img width="1365" height="1050" alt="image" src="https://github.com/user-attachments/assets/d3f38417-c139-435b-86c3-a5da15fca5e5" />
+
 
 ### Architecture Summary
 
